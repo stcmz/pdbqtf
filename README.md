@@ -17,7 +17,7 @@ pdbqtf accepts the following ways of input:
 * standard input: `pdbqtf`
 * file input: `pdbqtf file.pdbqt`
 * input redirect: `pdbqtf -L <(cat file.pdbqt)`
-* pipe input: `cat file.pdb | pdbqtf`
+* pipe input: `cat file.pdbqt | pdbqtf`
 
 
 Supported operating systems and compilers
