@@ -42,12 +42,14 @@ const set<char> adtypes1
 	'I' , // 14
 	'K' , // 22
 	'U' , // 29
+	'B' , // 33
 };
 
 const set<string> adtypes2
 {
 	"Se", "Cl", "Br", "Zn", "Fe", "Mg", "Ca", "Mn", "Cu", "Na",
-	"Hg", "Ni", "Co", "Cd", "As", "Sr", "Cs", "Mo", "Si",
+	"Hg", "Ni", "Co", "Cd", "As", "Sr", "Cs", "Mo", "Si", "Pt",
+	"Li", "Sb", "Bi", "Ti", "Sn", "Ra", "Tl", "Cr", 
 };
 
 const set<char> elems1
